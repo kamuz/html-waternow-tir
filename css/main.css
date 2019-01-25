@@ -1,0 +1,40 @@
+:root {
+  --main-font: 'Titillium Web', sans-serif; 
+  --second-font: 'Raleway', sans-serif; 
+}
+
+body, html{
+    padding: 0;
+    margin: 0;
+}
+
+body, html, * {
+    font-family: var(--main-font);
+}
+
+.block-slider-full-width .owl-carousel .item{
+    height: 600px;
+    color: #fff;
+}
+
+.block-bg-two .col-md-6{
+    height: 800px;
+}
+
+.block-overlay-four .overlay{
+    height: 400px;
+}
+
+.block-carousel-center-four .owl-carousel .item{
+    height: 250px;
+    color: #fff;
+}
+
+.block-overlay-three .overlay{
+    height: 400px;
+    color: #fff;
+}
+
+.block-bg-left .container-fluid{
+    height: 800px;
+}
